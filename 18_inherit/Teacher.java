@@ -1,0 +1,5 @@
+class Teacher extends Person {
+  
+}
+
+
