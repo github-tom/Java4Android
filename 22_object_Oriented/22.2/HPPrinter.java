@@ -1,0 +1,3 @@
+class HPPrinter extends Printer{
+
+}
